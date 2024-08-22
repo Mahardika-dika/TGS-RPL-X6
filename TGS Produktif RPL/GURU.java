@@ -28,8 +28,12 @@ public class GURU {
         System.out.println("MAPEL: " + Mapel);
         System.out.println("ALAMAT: " + Alamat);
         System.out.println("|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|");
+<<<<<<< HEAD
 
-        
+        System.out.println()
+=======
+
+>>>>>>> 589d61cff9e241adb0bd19464492627c3470a90c
     }
 
 }
