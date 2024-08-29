@@ -1,8 +1,42 @@
 // Object Class
 
 public class GURU {
-    String Nama, Mapel, Alamat;
+    String Nama;
+    String Mapel;
+    String Alamat;
     int id;
+
+    public String getNama() {
+        return this.Nama;
+    }
+
+    public void setNama(String Nama) {
+        this.Nama = Nama;
+    }
+
+    public String getMapel() {
+        return this.Mapel;
+    }
+
+    public void setMapel(String Mapel) {
+        this.Mapel = Mapel;
+    }
+
+    public String getAlamat() {
+        return this.Alamat;
+    }
+
+    public void setAlamat(String Alamat) {
+        this.Alamat = Alamat;
+    }
+
+    public int getId() {
+        return this.id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
 
     // Constuctor Name same as Class Name
     public GURU() {
@@ -28,12 +62,6 @@ public class GURU {
         System.out.println("MAPEL: " + Mapel);
         System.out.println("ALAMAT: " + Alamat);
         System.out.println("|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|");
-<<<<<<< HEAD
-
-        System.out.println()
-=======
-
->>>>>>> 589d61cff9e241adb0bd19464492627c3470a90c
     }
 
 }

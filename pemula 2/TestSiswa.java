@@ -21,7 +21,6 @@ public class TestSiswa {
         ardi.id = 130909;
         ardi.nama = "Mahardika Arfuri";
         ardi.ipk = 12.9;
-
         nabil.id = 192208;
         nabil.nama = "Muhammad Nabil Anwar Kencana";
         nabil.ipk = 9.0;
