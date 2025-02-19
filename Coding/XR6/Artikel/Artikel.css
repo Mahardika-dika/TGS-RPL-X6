@@ -1,0 +1,204 @@
+.prompt-thin {
+  font-family: "Prompt", serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.prompt-extralight {
+  font-family: "Prompt", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.prompt-light {
+  font-family: "Prompt", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.prompt-regular {
+  font-family: "Prompt", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.prompt-medium {
+  font-family: "Prompt", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.prompt-semibold {
+  font-family: "Prompt", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.prompt-bold {
+  font-family: "Prompt", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.prompt-extrabold {
+  font-family: "Prompt", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.prompt-black {
+  font-family: "Prompt", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.prompt-thin-italic {
+  font-family: "Prompt", serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.prompt-extralight-italic {
+  font-family: "Prompt", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.prompt-light-italic {
+  font-family: "Prompt", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.prompt-regular-italic {
+  font-family: "Prompt", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.prompt-medium-italic {
+  font-family: "Prompt", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.prompt-semibold-italic {
+  font-family: "Prompt", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.prompt-bold-italic {
+  font-family: "Prompt", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.prompt-extrabold-italic {
+  font-family: "Prompt", serif;
+  font-weight: 800;
+  font-style: italic;
+}
+
+.prompt-black-italic {
+  font-family: "Prompt", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
+.space-grotesk-body {
+  font-family: "Space Grotesk", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+div.container {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 89px;
+  width: 100%;
+  text-align: center;
+  font-family: "Prompt", serif;
+  background-color: rgba(22, 22, 22, 0.65);
+  color: rgb(233, 233, 233);
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.24);
+}
+
+nav {
+  width: 20%;
+  float: left;
+}
+
+footer {
+  padding-top: 10px;
+  margin: 0;
+  width: 100%;
+  height: 70px;
+  text-align: center;
+  font-family: "Prompt", serif;
+  background-color: black;
+  color: white;
+}
+
+.RTY,
+.STE {
+  border-radius: 15px;
+  width: 450px;
+  height: auto;
+  box-shadow: 0px 12px 16px 0px rgba(0, 0, 0, 0.03),
+    0px 14px 15px 0px rgba(0, 0, 0, 0.05);
+  transition-duration: 0.77s;
+}
+
+.RTY:hover,
+.STE:hover {
+  box-shadow: 0px 12px 16px 0px rgba(0, 0, 0, 0.12),
+    0px 14px 15px 0px rgba(0, 0, 0, 0.15);
+}
+
+.Y {
+  padding: 0 40px;
+  text-align: justify;
+}
+
+.FERY {
+  width: 100%;
+  margin: 0;
+  box-shadow: inset 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.KX {
+  font-size: 25px;
+  text-align: center;
+}
+
+.GH {
+  font-size: 18px;
+  text-align: center;
+}
+
+.VXI {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul,
+li {
+  font-size: 18px;
+}
